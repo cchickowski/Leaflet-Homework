@@ -4,3 +4,6 @@ Data markers reflect the magnitude of the earthquake by their size and and depth
 
 The map visualization has two views(streetview and topographic). Screenshots are below:
 
+## Streetview:
+
+![Streetview](Equake-SS-Streatview.jpg)
